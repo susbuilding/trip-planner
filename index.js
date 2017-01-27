@@ -1,4 +1,4 @@
-var db = require('./db');
+var db = require('./models');
 var app = require('./app');
 
 // User.sync()
